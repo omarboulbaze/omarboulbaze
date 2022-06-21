@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/omarboulbaze?label=Follow&style=social)](https://github.com/omarboulbaze)
 
-- 🔭 I’m currently working at IBM as a Front-end Web Developer. I'm also working on The [Cookie Jar App](https://omar.bio/cookiejar) on my free time.
+- 🔭 I’m currently working as a Front-end Web Developer. I also try to implement new features on The [Cookie Jar App](https://omar.bio/cookiejar) on my free time.
 - Check my 🖋 [Personal Website](https://omar.bio/) or 🌱 [LinkedIn](https://www.linkedin.com/in/omarboulbaze/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarboulbaze&theme=github)
