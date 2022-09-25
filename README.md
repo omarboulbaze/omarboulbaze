@@ -12,5 +12,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omarboulbaze&theme=nord_dark)
 
 ## About Me
-Welcome to my GitHub repository. Here you will mostly find most of the recent projects I worked on. I am a Web Developer and Designer with a passion for technology and design. I primarily develop with ReactJS, NodeJS, and MongoDB.
-
+Welcome to my GitHub repository. Here you will mostly find most of the recent projects I worked on.
